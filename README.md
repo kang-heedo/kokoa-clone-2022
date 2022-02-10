@@ -1,3 +1,3 @@
 # kokoa clone 2022
 
-CSS hot so much better!
+HTML and CSS are so much fun!
