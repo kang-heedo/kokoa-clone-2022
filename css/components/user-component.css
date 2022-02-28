@@ -21,9 +21,10 @@
 }
 
 .user-component-suvtitle {
-  margin-top: 8px;
+  margin-top: 15px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
+  display: inline-block;
 }
 
 .user-component__avatar--xl {
